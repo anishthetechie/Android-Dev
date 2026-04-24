@@ -1,3 +1,5 @@
+This repo is being updated. Should be done completely by 04/26/2026.
+
 A mobile coffee shop application built in Kotlin for Android. The app lets users browse coffee categories, view popular products, and navigate through a cart-style shopping experience.
 
 Access link: https://drive.google.com/file/d/1FSdlokHj0rSwPgcmBT9dPWXToWbj4JXF/view?usp=sharing
